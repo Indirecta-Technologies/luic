@@ -1,6 +1,3 @@
-# luic
-Lua/u Bytecode Interpreter and Compilers
-
 <h1 align="center">
   <img alt="cgapp logo" src="https://raw.githubusercontent.com/Indirecta-Technologies/branding/main/logos/indirecta_logo_medium500_withPill.png" width="350px"/><br/>
   Lua/u Bytecode Interpreter and Compilers
